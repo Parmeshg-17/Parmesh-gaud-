@@ -3,7 +3,7 @@
 
 👀 I’m interested in web dev 
 
-🌱 I’m currently learning JavaScript 
+🌱 I’m currently learning cloud engineering
 
 📫 How to reach me parmeshgaud9594@gmail.com
 
